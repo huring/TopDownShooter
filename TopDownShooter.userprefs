@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bullet.js">
+    <Files>
+      <File FileName="Assets/Scripts/Spawner.js" Line="22" Column="15" />
+      <File FileName="Assets/Scripts/Enemy.js" Line="30" Column="34" />
+      <File FileName="Assets/Scripts/Temporary.js" Line="6" Column="55" />
+      <File FileName="Assets/Scripts/Bullet.js" Line="17" Column="3" />
+      <File FileName="Assets/Scripts/Player.js" Line="28" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

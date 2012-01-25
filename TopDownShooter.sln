@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8376733B-E1CD-C25B-A16F-C4B44F93CF6D}") = "TopDownShooter", "Assembly-UnityScript.unityproj", "{C1DDCEA7-A5BB-F8EC-EB11-A020ECAB0877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DDCEA7-A5BB-F8EC-EB11-A020ECAB0877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DDCEA7-A5BB-F8EC-EB11-A020ECAB0877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DDCEA7-A5BB-F8EC-EB11-A020ECAB0877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DDCEA7-A5BB-F8EC-EB11-A020ECAB0877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
